@@ -1,0 +1,28 @@
+{
+  "name": "web-dev-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/bin/www.mjs",
+    "build": "cd client && npm install && npm run build && cd ../server && npm install --omit=dev",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "seed": "node server/utils/seed.mjs ",
+    "bundlesize": "bundlesize"
+  },
+  "author": "Abdullah, Aman, Soufiane",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "dotenv": "^16.4.5",
+    "leaflet": "^1.9.4",
+    "mongodb": "^6.10.0",
+    "papaparse": "^5.4.1",
+    "react-leaflet": "^4.2.1",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1"
+  },
+  "devDependencies": {
+    "bundlesize2": "^0.0.31"
+  }
+}

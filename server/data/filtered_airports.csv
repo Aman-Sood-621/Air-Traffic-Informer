@@ -1,0 +1,360 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,country_name,iso_country,region_name,iso_region,local_region,municipality,gps_code,iata_code,local_code,home_link,last_updated
+3632,KLAX,large_airport,Los Angeles International Airport,33.942501,-118.407997,125,United States,US,California,US-CA,CA,Los Angeles,KLAX,LAX,LAX,https://www.flylax.com/,2024-04-02T16:36:13+00:00
+3754,KORD,large_airport,Chicago O'Hare International Airport,41.9786,-87.9048,680,United States,US,Illinois,US-IL,IL,Chicago,KORD,ORD,ORD,https://www.flychicago.com/ohare/home/pages/default.aspx,2024-03-09T23:28:49+00:00
+3622,KJFK,large_airport,John F Kennedy International Airport,40.639447,-73.779317,13,United States,US,New York,US-NY,NY,New York,KJFK,JFK,JFK,https://www.jfkairport.com/,2022-10-18T18:49:55+00:00
+3384,KATL,large_airport,Hartsfield Jackson Atlanta International Airport,33.6367,-84.428101,1026,United States,US,Georgia,US-GA,GA,Atlanta,KATL,ATL,ATL,http://www.atlanta-airport.com/,2024-04-02T16:26:01+00:00
+3878,KSFO,large_airport,San Francisco International Airport,37.619806,-122.374821,13,United States,US,California,US-CA,CA,San Francisco,KSFO,SFO,SFO,http://www.flysfo.com/,2024-04-02T16:43:50+00:00
+3521,KEWR,large_airport,Newark Liberty International Airport,40.692501,-74.168701,18,United States,US,New Jersey,US-NJ,NJ,Newark,KEWR,EWR,EWR,http://www.panynj.gov/CommutingTravel/airports/html/newarkliberty.html,2022-09-17T20:28:21+00:00
+3488,KDFW,large_airport,Dallas Fort Worth International Airport,32.896801,-97.038002,607,United States,US,Texas,US-TX,TX,Dallas-Fort Worth,KDFW,DFW,DFW,https://www.dfwairport.com/,2018-09-19T14:53:02+00:00
+3631,KLAS,large_airport,Harry Reid International Airport,36.083361,-115.151817,2181,United States,US,Nevada,US-NV,NV,Las Vegas,KLAS,LAS,LAS,https://www.harryreidairport.com/,2022-10-18T19:05:10+00:00
+3670,KMCO,large_airport,Orlando International Airport,28.42939949,-81.30899811,96,United States,US,Florida,US-FL,FL,Orlando,KMCO,MCO,MCO,http://www.orlandoairports.net/,2008-06-13T14:30:04+00:00
+3486,KDEN,large_airport,Denver International Airport,39.86169815,-104.6729965,5431,United States,US,Colorado,US-CO,CO,Denver,KDEN,DEN,DEN,http://www.flydenver.com/,2015-11-13T09:28:42+00:00
+3602,KIAD,large_airport,Washington Dulles International Airport,38.9445,-77.455803,312,United States,US,Virginia,US-VA,VA,Dulles,KIAD,IAD,IAD,http://www.mwaa.com/dulles/,2022-11-02T15:47:54+00:00
+3643,KLGA,large_airport,LaGuardia Airport,40.777199,-73.872597,21,United States,US,New York,US-NY,NY,New York,KLGA,LGA,LGA,https://www.laguardiaairport.com/,2024-08-22T20:42:40+00:00
+3685,KMIA,large_airport,Miami International Airport,25.79319954,-80.29060364,8,United States,US,Florida,US-FL,FL,Miami,KMIA,MIA,MIA,http://www.miami-airport.com/,2008-06-13T14:30:04+00:00
+3772,KPHX,large_airport,Phoenix Sky Harbor International Airport,33.435302,-112.005905,1135,United States,US,Arizona,US-AZ,AZ,Phoenix,KPHX,PHX,PHX,http://phoenix.gov/skyharborairport/,2021-07-22T18:14:49+00:00
+3875,KSEA,large_airport,Seattle–Tacoma International Airport,47.447943,-122.310276,433,United States,US,Washington,US-WA,WA,Seattle,KSEA,SEA,SEA,https://www.portseattle.org/sea-tac,2024-04-29T19:04:40+00:00
+3422,KBOS,large_airport,Logan International Airport,42.36197,-71.0079,20,United States,US,Massachusetts,US-MA,MA,Boston,KBOS,BOS,BOS,http://www.massport.com/logan/,2024-04-02T16:27:02+00:00
+3771,KPHL,large_airport,Philadelphia International Airport,39.871899,-75.241096,36,United States,US,Pennsylvania,US-PA,PA,Philadelphia,KPHL,PHL,PHL,http://www.phl.org/,2024-04-02T16:39:06+00:00
+3457,KCLT,large_airport,Charlotte Douglas International Airport,35.2140007,-80.94309998,748,United States,US,North Carolina,US-NC,NC,Charlotte,KCLT,CLT,CLT,http://www.charlotteairport.com/,2009-01-30T14:52:52+00:00
+3604,KIAH,large_airport,George Bush Intercontinental Houston Airport,29.9843998,-95.34140015,97,United States,US,Texas,US-TX,TX,Houston,KIAH,IAH,IAH,http://www.fly2houston.com/iah,2008-06-13T14:30:04+00:00
+3483,KDCA,large_airport,Ronald Reagan Washington National Airport,38.8521,-77.037697,15,United States,US,District of Columbia,US-DC,DC,Washington,KDCA,DCA,DCA,http://www.flyreagan.com/dca/reagan-national-airport,2016-12-13T09:13:00+00:00
+3497,KDTW,large_airport,Detroit Metropolitan Wayne County Airport,42.21377,-83.353786,645,United States,US,Michigan,US-MI,MI,Detroit,KDTW,DTW,DTW,http://www.metroairport.com/,2024-04-02T16:32:46+00:00
+3709,KMSP,large_airport,Minneapolis–Saint Paul International Airport / Wold–Chamberlain Field,44.880081,-93.221741,841,United States,US,Minnesota,US-MN,MN,Minneapolis,KMSP,MSP,MSP,http://www.mspairport.com/,2024-04-02T16:37:09+00:00
+3887,KSLC,large_airport,Salt Lake City International Airport,40.78886,-111.979866,4227,United States,US,Utah,US-UT,UT,Salt Lake City,KSLC,SLC,SLC,https://slcairport.com/,2024-04-29T19:05:02+00:00
+3531,KFLL,large_airport,Fort Lauderdale Hollywood International Airport,26.072599,-80.152702,9,United States,US,Florida,US-FL,FL,Fort Lauderdale,KFLL,FLL,FLL,http://www.broward.org/airport,2018-09-16T02:40:06+00:00
+3673,KMDW,large_airport,Chicago Midway International Airport,41.785999,-87.752403,620,United States,US,Illinois,US-IL,IL,Chicago,KMDW,MDW,MDW,https://www.flychicago.com/midway/home/pages/default.aspx,2022-10-23T16:27:10+00:00
+3435,KBWI,large_airport,Baltimore/Washington International Thurgood Marshall Airport,39.1754,-76.668297,146,United States,US,Maryland,US-MD,MD,Baltimore,KBWI,BWI,BWI,https://www.bwiairport.com/,2024-09-29T04:03:29+00:00
+3862,KSAN,large_airport,San Diego International Airport,32.73360062,-117.1900024,17,United States,US,California,US-CA,CA,San Diego,KSAN,SAN,SAN,http://www.san.org/,2014-12-10T01:00:52+00:00
+3905,KSTL,large_airport,St. Louis Lambert International Airport,38.748697,-90.370003,618,United States,US,Missouri,US-MO,MO,St Louis,KSTL,STL,STL,https://www.flystl.com/,2024-10-02T15:41:59+00:00
+5453,PHNL,large_airport,Daniel K Inouye International Airport,21.32062,-157.924228,13,United States,US,Hawaii,US-HI,HI,Honolulu,PHNL,HNL,HNL,http://airports.hawaii.gov/hnl/,2022-03-08T15:59:42+00:00
+3768,KPDX,large_airport,Portland International Airport,45.588699,-122.598,31,United States,US,Oregon,US-OR,OR,Portland,KPDX,PDX,PDX,https://www.flypdx.com/,2024-04-29T19:02:03+00:00
+3711,KMSY,large_airport,Louis Armstrong New Orleans International Airport,29.993401,-90.258003,4,United States,US,Louisiana,US-LA,LA,New Orleans,KMSY,MSY,MSY,https://flymsy.com/,2024-04-29T18:58:12+00:00
+3926,KTPA,large_airport,Tampa International Airport,27.9755,-82.533203,26,United States,US,Florida,US-FL,FL,Tampa,KTPA,TPA,TPA,https://www.tampaairport.com/,2024-04-29T19:06:44+00:00
+3420,KBNA,large_airport,Nashville International Airport,36.1245,-86.6782,599,United States,US,Tennessee,US-TN,TN,Nashville,KBNA,BNA,BNA,https://flynashville.com/,2024-04-29T18:52:06+00:00
+3471,KCVG,large_airport,Cincinnati Northern Kentucky International Airport,39.048801,-84.667801,896,United States,US,Kentucky,US-KY,KY,Cincinnati / Covington,KCVG,CVG,CVG,https://www.cvgairport.com/,2023-08-15T23:40:32+00:00
+3386,KAUS,large_airport,Austin Bergstrom International Airport,30.197535,-97.662015,542,United States,US,Texas,US-TX,TX,Austin,KAUS,AUS,AUS,http://www.ci.austin.tx.us/austinairport/,2024-03-14T12:07:49+00:00
+3844,KRDU,large_airport,Raleigh Durham International Airport,35.877602,-78.787498,435,United States,US,North Carolina,US-NC,NC,Raleigh/Durham,KRDU,RDU,RDU,https://www.rdu.com/,2023-06-22T11:57:23+00:00
+3778,KPIT,large_airport,Pittsburgh International Airport,40.491501,-80.232903,1203,United States,US,Pennsylvania,US-PA,PA,Pittsburgh,KPIT,PIT,PIT,https://flypittsburgh.com/,2024-04-29T19:02:38+00:00
+3668,KMCI,large_airport,Kansas City International Airport,39.2976,-94.713898,1026,United States,US,Missouri,US-MO,MO,Kansas City,KMCI,MCI,MCI,http://www.flykci.com/,2016-05-31T09:33:29+00:00
+3883,KSJC,large_airport,Norman Y. Mineta San Jose International Airport,37.362452,-121.929188,62,United States,US,California,US-CA,CA,San Jose,KSJC,SJC,SJC,https://www.flysanjose.com/,2022-09-02T15:17:36+00:00
+3863,KSAT,large_airport,San Antonio International Airport,29.533701,-98.469803,809,United States,US,Texas,US-TX,TX,San Antonio,KSAT,SAT,SAT,https://www.sanantonio.gov/aviation,2022-09-25T21:25:37+00:00
+3744,KOAK,large_airport,San Francisco Bay Oakland International Airport,37.720085,-122.221184,9,United States,US,California,US-CA,CA,Oakland,KOAK,OAK,OAK,http://www.oaklandairport.com/,2024-07-22T14:25:33+00:00
+3894,KSNA,large_airport,John Wayne Orange County International Airport,33.675701,-117.867996,56,United States,US,California,US-CA,CA,Santa Ana,KSNA,SNA,SNA,http://www.ocair.com/,2023-05-11T14:55:36+00:00
+3675,KMEM,large_airport,Memphis International Airport,35.0424,-89.9767,341,United States,US,Tennessee,US-TN,TN,Memphis,KMEM,MEM,MEM,https://flymemphis.com/,2024-04-29T18:56:51+00:00
+3454,KCLE,large_airport,Cleveland Hopkins International Airport,41.411701,-81.8498,791,United States,US,Ohio,US-OH,OH,Cleveland,KCLE,CLE,CLE,http://www.clevelandairport.com/,2023-12-07T16:12:11+00:00
+3588,KHOU,medium_airport,William P Hobby Airport,29.645399,-95.2789,46,United States,US,Texas,US-TX,TX,Houston,KHOU,HOU,HOU,http://www.fly2houston.com/hobbyHome,2021-11-21T14:56:51+00:00
+3479,KDAL,medium_airport,Dallas Love Field,32.847099,-96.851799,487,United States,US,Texas,US-TX,TX,Dallas,KDAL,DAL,DAL,http://www.dallas-lovefield.com/,2021-11-21T14:57:51+00:00
+3610,KIND,large_airport,Indianapolis International Airport,39.7173,-86.294403,797,United States,US,Indiana,US-IN,IN,Indianapolis,KIND,IND,IND,http://www.indianapolisairport.com/,2016-07-08T18:41:42+00:00
+16091,KABQ,large_airport,Albuquerque International Sunport,35.039976,-106.608925,5355,United States,US,New Mexico,US-NM,NM,Albuquerque,KABQ,ABQ,ABQ,http://www.abqsunport.com/,2024-04-03T18:50:59+00:00
+3458,KCMH,large_airport,John Glenn Columbus International Airport,39.998001,-82.891899,815,United States,US,Ohio,US-OH,OH,Columbus,KCMH,CMH,CMH,https://flycolumbus.com/,2018-04-19T16:19:05+00:00
+3690,KMKE,large_airport,General Mitchell International Airport,42.947201,-87.896599,723,United States,US,Wisconsin,US-WI,WI,Milwaukee,KMKE,MKE,MKE,https://www.mitchellairport.com/,2024-04-29T18:57:21+00:00
+3932,KTUS,medium_airport,Tucson International Airport / Morris Air National Guard Base,32.115004,-110.938053,2643,United States,US,Arizona,US-AZ,AZ,Tucson,KTUS,TUS,TUS,https://www.flytucson.com/,2021-11-21T14:59:59+00:00
+3620,KJAX,large_airport,Jacksonville International Airport,30.492469,-81.687813,30,United States,US,Florida,US-FL,FL,Jacksonville,KJAX,JAX,JAX,https://www.flyjacksonville.com/,2024-04-29T18:56:27+00:00
+3431,KBUF,large_airport,Buffalo Niagara International Airport,42.940498,-78.732201,728,United States,US,New York,US-NY,NY,Buffalo,KBUF,BUF,BUF,https://www.buffaloairport.com/,2024-04-29T18:52:59+00:00
+3396,KBDL,large_airport,Bradley International Airport,41.93851,-72.688066,173,United States,US,Connecticut,US-CT,CT,Hartford,KBDL,BDL,BDL,http://www.bradleyairport.com/,2024-04-03T00:58:34+00:00
+5388,PANC,large_airport,Ted Stevens Anchorage International Airport,61.179004,-149.992561,152,United States,US,Alaska,US-AK,AK,Anchorage,PANC,ANC,ANC,https://dot.alaska.gov/anc/,2024-04-29T19:13:03+00:00
+3747,KOKC,large_airport,Will Rogers World Airport,35.393388,-97.598248,1295,United States,US,Oklahoma,US-OK,OK,Oklahoma City,KOKC,OKC,OKC,https://flyokc.com/,2024-04-29T18:59:21+00:00
+5455,PHOG,large_airport,Kahului International Airport,20.896263,-156.431837,54,United States,US,Hawaii,US-HI,HI,Kahului,PHOG,OGG,OGG,https://airports.hawaii.gov/ogg/,2024-04-29T19:14:08+00:00
+3892,KSMF,large_airport,Sacramento International Airport,38.6954,-121.591003,27,United States,US,California,US-CA,CA,Sacramento,KSMF,SMF,SMF,https://sacramento.aero/smf,2024-04-29T19:05:45+00:00
+3432,KBUR,medium_airport,Hollywood Burbank Airport,34.197703,-118.356378,778,United States,US,California,US-CA,CA,Burbank,KBUR,BUR,BUR,https://www.hollywoodburbankairport.com/,2024-07-22T13:18:48+00:00
+3450,KCHS,medium_airport,Charleston International Airport,32.898602,-80.040497,46,United States,US,South Carolina,US-SC,SC,Charleston,KCHS,CHS,CHS,https://www.iflychs.com/,2024-04-29T18:54:44+00:00
+3751,KOMA,large_airport,Eppley Airfield,41.3032,-95.894096,984,United States,US,Nebraska,US-NE,NE,Omaha,KOMA,OMA,OMA,https://www.flyoma.com,2024-04-29T18:59:52+00:00
+3766,KPBI,large_airport,Palm Beach International Airport,26.683201,-80.095596,19,United States,US,Florida,US-FL,FL,West Palm Beach,KPBI,PBI,PBI,https://www.pbia.org/,2024-04-29T19:01:41+00:00
+3873,KSDF,large_airport,Louisville Muhammad Ali International Airport,38.1744,-85.736,501,United States,US,Kentucky,US-KY,KY,Louisville,KSDF,SDF,SDF,http://www.flylouisville.com,2019-12-14T21:35:15+00:00
+3853,KRNO,large_airport,Reno Tahoe International Airport,39.4991,-119.767998,4415,United States,US,Nevada,US-NV,NV,Reno,KRNO,RNO,RNO,https://www.renoairport.com/,2024-04-02T16:41:00+00:00
+3795,KPVD,large_airport,Theodore Francis Green State Airport,41.725038,-71.425668,55,United States,US,Rhode Island,US-RI,RI,Warwick,KPVD,PVD,PVD,https://flyri.com/,2023-06-22T11:58:53+00:00
+3512,KELP,medium_airport,El Paso International Airport,31.807199,-106.377998,3959,United States,US,Texas,US-TX,TX,El Paso,KELP,ELP,ELP,https://elpasointernationalairport.com/,2024-04-29T18:55:25+00:00
+3755,KORF,large_airport,Norfolk International Airport,36.895341,-76.201,26,United States,US,Virginia,US-VA,VA,Norfolk,KORF,ORF,ORF,https://www.norfolkairport.com/,2024-04-29T19:01:06+00:00
+3847,KRIC,large_airport,Richmond International Airport,37.505199,-77.319702,167,United States,US,Virginia,US-VA,VA,Richmond,KRIC,RIC,RIC,https://flyrichmond.com/,2024-04-29T19:03:07+00:00
+3864,KSAV,large_airport,Savannah Hilton Head International Airport,32.127602,-81.202103,50,United States,US,Georgia,US-GA,GA,Savannah,KSAV,SAV,SAV,https://savannahairport.com/,2024-04-29T19:03:33+00:00
+3406,KBHM,medium_airport,Birmingham-Shuttlesworth International Airport,33.562901,-86.753502,650,United States,US,Alabama,US-AL,AL,Birmingham,KBHM,BHM,BHM,http://www.flybirmingham.com/,2021-11-21T15:02:17+00:00
+3644,KLGB,medium_airport,Long Beach Airport (Daugherty Field),33.816523,-118.149891,60,United States,US,California,US-CA,CA,Long Beach,KLGB,LGB,LGB,http://www.lgb.org/,2022-10-18T11:17:08+00:00
+3858,KRSW,large_airport,Southwest Florida International Airport,26.53619957,-81.75520325,30,United States,US,Florida,US-FL,FL,Fort Myers,KRSW,RSW,RSW,http://www.flylcpa.com/,2009-04-15T21:59:48+00:00
+5448,PHKO,medium_airport,Ellison Onizuka Kona International Airport at Keahole,19.738783,-156.045603,47,United States,US,Hawaii,US-HI,HI,Kailua-Kona,PHKO,KOA,KOA,https://airports.hawaii.gov/koa/,2024-05-09T15:29:59+00:00
+3371,KALB,medium_airport,Albany International Airport,42.74829865,-73.80169678,285,United States,US,New York,US-NY,NY,Albany,KALB,ALB,ALB,http://www.albanyairport.com/,2008-06-13T14:30:04+00:00
+3421,KBOI,medium_airport,Boise Air Terminal/Gowen Field,43.5644,-116.223,2871,United States,US,Idaho,US-ID,ID,Boise,KBOI,BOI,BOI,http://www.cityofboise.org/departments/airport/,2021-11-21T15:02:39+00:00
+3589,KHPN,medium_airport,Westchester County Airport,41.06700134,-73.70760345,439,United States,US,New York,US-NY,NY,White Plains,KHPN,HPN,HPN,,2008-06-13T14:30:04+00:00
+3752,KONT,large_airport,Ontario International Airport,34.056,-117.600998,944,United States,US,California,US-CA,CA,Ontario,KONT,ONT,ONT,https://www.flyontario.com/,2024-04-29T19:00:26+00:00
+3913,KSYR,large_airport,Syracuse Hancock International Airport,43.11119843,-76.10630035,421,United States,US,New York,US-NY,NY,Syracuse,KSYR,SYR,SYR,http://www.syrairport.org/,2009-07-11T20:52:07+00:00
+3496,KDSM,medium_airport,Des Moines International Airport,41.534,-93.663101,958,United States,US,Iowa,US-IA,IA,Des Moines,KDSM,DSM,DSM,,2021-08-08T06:02:23+00:00
+3605,KICT,medium_airport,Wichita Eisenhower National Airport,37.649899,-97.433098,1333,United States,US,Kansas,US-KS,KS,Wichita,KICT,ICT,ICT,,2021-07-31T17:52:14+00:00
+3566,KGRR,medium_airport,Gerald R. Ford International Airport,42.88079834,-85.52279663,794,United States,US,Michigan,US-MI,MI,Grand Rapids,KGRR,GRR,GRR,,2010-01-23T11:27:52+00:00
+3855,KROC,medium_airport,Frederick Douglass Greater Rochester International Airport,43.1189,-77.672401,559,United States,US,New York,US-NY,NY,Rochester,KROC,ROC,ROC,https://rocairport.com/,2022-06-05T00:05:59+00:00
+3481,KDAY,medium_airport,James M Cox Dayton International Airport,39.902401,-84.219398,1009,United States,US,Ohio,US-OH,OH,Dayton,KDAY,DAY,DAY,,2021-11-20T16:28:58+00:00
+3930,KTUL,large_airport,Tulsa International Airport,36.19839859,-95.88809967,677,United States,US,Oklahoma,US-OK,OK,Tulsa,KTUL,TUL,TUL,,2008-06-13T14:30:04+00:00
+3552,KGEG,medium_airport,Spokane International Airport,47.6199,-117.533997,2376,United States,US,Washington,US-WA,WA,Spokane,KGEG,GEG,GEG,https://spokaneairports.net/,2024-04-29T18:55:53+00:00
+3463,KCOS,medium_airport,City of Colorado Springs Municipal Airport,38.805801,-104.700996,6187,United States,US,Colorado,US-CO,CO,Colorado Springs,KCOS,COS,COS,https://flycos.coloradosprings.gov/,2021-11-22T14:14:00+00:00
+3707,KMSN,medium_airport,Dane County Regional Truax Field,43.1399,-89.337502,887,United States,US,Wisconsin,US-WI,WI,Madison,KMSN,MSN,MSN,,2022-03-04T14:34:33+00:00
+3796,KPWM,large_airport,Portland International Jetport,43.646198,-70.309303,76,United States,US,Maine,US-ME,ME,Portland,KPWM,PWM,PWM,https://portlandjetport.org/,2023-06-22T11:58:25+00:00
+3645,KLIT,medium_airport,Bill & Hillary Clinton National Airport/Adams Field,34.729582,-92.223728,262,United States,US,Arkansas,US-AR,AR,Little Rock,KLIT,LIT,LIT,,2021-11-20T16:32:41+00:00
+3684,KMHT,medium_airport,Manchester-Boston Regional Airport,42.932598,-71.435699,266,United States,US,New Hampshire,US-NH,NH,Manchester,KMHT,MHT,MHT,,2021-08-01T05:28:18+00:00
+3938,KTYS,medium_airport,McGhee Tyson Airport,35.811001,-83.994003,981,United States,US,Tennessee,US-TN,TN,Alcoa,KTYS,TYS,TYS,,2022-09-26T00:02:27+00:00
+3430,KBTV,medium_airport,Burlington International Airport,44.471901,-73.153297,335,United States,US,Vermont,US-VT,VT,South Burlington,KBTV,BTV,BTV,http://www.vermontairports.com/btv.html,2022-03-08T12:29:11+00:00
+3792,KPSP,medium_airport,Palm Springs International Airport,33.8297,-116.507004,477,United States,US,California,US-CA,CA,Palm Springs,KPSP,PSP,PSP,http://www.palmspringsca.gov/index.aspx?page=270,2021-04-19T16:07:50+00:00
+3866,KSBA,medium_airport,Santa Barbara Municipal Airport,34.426201,-119.839996,13,United States,US,California,US-CA,CA,Santa Barbara,KSBA,SBA,SBA,,2024-04-02T16:41:58+00:00
+5449,PHLI,medium_airport,Lihue Airport,21.976,-159.339005,153,United States,US,Hawaii,US-HI,HI,Lihue,PHLI,LIH,LIH,,2022-03-08T16:02:06+00:00
+3569,KGSP,medium_airport,Greenville Spartanburg International Airport,34.895699,-82.218903,964,United States,US,South Carolina,US-SC,SC,Greer,KGSP,GSP,GSP,,2021-11-20T16:24:51+00:00
+3522,KEYW,medium_airport,Key West International Airport,24.556101,-81.759598,3,United States,US,Florida,US-FL,FL,Key West,KEYW,EYW,EYW,,2021-07-31T17:28:00+00:00
+3783,KPNS,medium_airport,Pensacola International Airport,30.4734,-87.1866,121,United States,US,Florida,US-FL,FL,Pensacola,KPNS,PNS,PNS,http://www.flypensacola.com/,2019-11-07T18:53:05+00:00
+3640,KLEX,medium_airport,Blue Grass Airport,38.036499,-84.605904,979,United States,US,Kentucky,US-KY,KY,Lexington,KLEX,LEX,LEX,http://www.bluegrassairport.com/,2021-11-20T15:25:26+00:00
+3924,KTLH,medium_airport,Tallahassee Regional Airport,30.3965,-84.350304,81,United States,US,Florida,US-FL,FL,Tallahassee,KTLH,TLH,TLH,,2021-11-20T15:24:50+00:00
+3899,KSRQ,large_airport,Sarasota Bradenton International Airport,27.394631,-82.554359,30,United States,US,Florida,US-FL,FL,Sarasota/Bradenton,KSRQ,SRQ,SRQ,,2024-04-03T01:12:00+00:00
+3568,KGSO,medium_airport,Piedmont Triad International Airport,36.097801,-79.937302,925,United States,US,North Carolina,US-NC,NC,Greensboro,KGSO,GSO,GSO,,2021-11-20T16:25:34+00:00
+3838,KRAP,medium_airport,Rapid City Regional Airport,44.04529953,-103.0569992,3204,United States,US,South Dakota,US-SD,SD,Rapid City,KRAP,RAP,RAP,,2008-06-13T14:30:04+00:00
+3705,KMRY,medium_airport,Monterey Peninsula Airport,36.5870018,-121.8430023,257,United States,US,California,US-CA,CA,Monterey,KMRY,MRY,MRY,,2008-06-13T14:30:04+00:00
+3478,KDAB,medium_airport,Daytona Beach International Airport,29.179899,-81.058098,34,United States,US,Florida,US-FL,FL,Daytona Beach,KDAB,DAB,DAB,,2021-08-01T05:30:32+00:00
+3387,KAVL,medium_airport,Asheville Regional Airport,35.436199,-82.541801,2165,United States,US,North Carolina,US-NC,NC,Asheville,KAVL,AVL,AVL,,2021-08-01T09:49:00+00:00
+3775,KPIE,medium_airport,St. Petersburg Clearwater International Airport,27.9102,-82.687401,11,United States,US,Florida,US-FL,FL,Pinellas Park,KPIE,PIE,PIE,,2022-10-27T15:35:40+00:00
+3876,KSFB,large_airport,Orlando Sanford International Airport,28.77759933,-81.23750305,55,United States,US,Florida,US-FL,FL,Orlando,KSFB,SFB,SFB,,2008-06-13T14:30:04+00:00
+3439,KCAK,medium_airport,Akron Canton Regional Airport,40.91609955,-81.44219971,1228,United States,US,Ohio,US-OH,OH,Akron,KCAK,CAK,CAK,,2008-06-13T14:30:04+00:00
+3405,KBGR,medium_airport,Bangor International Airport,44.8074,-68.828102,192,United States,US,Maine,US-ME,ME,Bangor,KBGR,BGR,BGR,,2021-11-21T15:05:48+00:00
+3438,KCAE,medium_airport,Columbia Metropolitan Airport,33.938801,-81.119499,236,United States,US,South Carolina,US-SC,SC,Columbia,KCAE,CAE,CAE,,2021-11-20T16:26:07+00:00
+3672,KMDT,medium_airport,Harrisburg International Airport,40.193501,-76.763397,310,United States,US,Pennsylvania,US-PA,PA,Harrisburg,KMDT,MDT,MDT,http://www.flyhia.com/,2022-11-28T10:27:39+00:00
+3449,KCHO,medium_airport,Charlottesville Albemarle Airport,38.1385994,-78.45290375,639,United States,US,Virginia,US-VA,VA,Charlottesville,KCHO,CHO,CHO,,2008-06-13T14:30:04+00:00
+3594,KHSV,medium_airport,Huntsville International Carl T Jones Field,34.637199,-86.775101,629,United States,US,Alabama,US-AL,AL,Huntsville,KHSV,HSV,HSV,http://www.flyhuntsville.com/portal/#.VbaG-_lVhBc,2021-11-21T15:08:07+00:00
+3633,KLBB,medium_airport,Lubbock Preston Smith International Airport,33.663601,-101.822998,3282,United States,US,Texas,US-TX,TX,Lubbock,KLBB,LBB,LBB,http://www.flylia.com/,2021-11-20T15:26:01+00:00
+3448,KCHA,medium_airport,Chattanooga Metropolitan Airport (Lovell Field),35.035301,-85.203796,683,United States,US,Tennessee,US-TN,TN,Chattanooga,KCHA,CHA,CHA,,2021-11-20T15:27:32+00:00
+3524,KFAT,medium_airport,Fresno Yosemite International Airport,36.776199,-119.718002,336,United States,US,California,US-CA,CA,Fresno,KFAT,FAT,FAT,https://flyfresno.com/,2021-08-01T10:15:05+00:00
+3717,KMYR,medium_airport,Myrtle Beach International Airport,33.679699,-78.928299,25,United States,US,South Carolina,US-SC,SC,Myrtle Beach,KMYR,MYR,MYR,https://www.flymyrtlebeach.com,2024-04-29T18:58:53+00:00
+3618,KJAC,medium_airport,Jackson Hole Airport,43.6072998,-110.737999,6451,United States,US,Wyoming,US-WY,WY,Jackson,KJAC,JAC,JAC,,2008-06-13T14:30:04+00:00
+3562,KGRB,medium_airport,Austin Straubel International Airport,44.483459,-88.130805,695,United States,US,Wisconsin,US-WI,WI,Green Bay,KGRB,GRB,GRB,,2022-03-17T23:13:18+00:00
+5457,PHTO,medium_airport,Hilo International Airport,19.721399,-155.048004,38,United States,US,Hawaii,US-HI,HI,Hilo,PHTO,ITO,ITO,,2022-03-08T16:02:24+00:00
+21033,KSAF,medium_airport,Santa Fe Municipal Airport,35.6171,-106.088997,6348,United States,US,New Mexico,US-NM,NM,Santa Fe,KSAF,SAF,SAF,https://flysantafe.com/flights/airlines/,2023-04-11T01:16:47+00:00
+3547,KFWA,medium_airport,Fort Wayne International Airport,40.9785,-85.195099,814,United States,US,Indiana,US-IN,IN,Fort Wayne,KFWA,FWA,FWA,https://fwairport.com/,2021-11-20T15:31:59+00:00
+3879,KSGF,medium_airport,Springfield Branson National Airport,37.245701,-93.388603,1268,United States,US,Missouri,US-MO,MO,Springfield,KSGF,SGF,SGF,,2021-11-20T16:31:46+00:00
+3377,KAMA,medium_airport,Rick Husband Amarillo International Airport,35.219398,-101.706001,3607,United States,US,Texas,US-TX,TX,Amarillo,KAMA,AMA,AMA,http://airport.amarillo.gov/,2021-11-20T15:28:26+00:00
+3869,KSBP,medium_airport,San Luis County Regional Airport,35.23680115,-120.6419983,212,United States,US,California,US-CA,CA,San Luis Obispo,KSBP,SBP,SBP,http://www.sloairport.com/,2014-06-11T07:23:42+00:00
+3868,KSBN,medium_airport,South Bend Regional Airport,41.708698,-86.317299,799,United States,US,Indiana,US-IN,IN,South Bend,KSBN,SBN,SBN,,2021-08-01T05:32:31+00:00
+3416,KBLI,medium_airport,Bellingham International Airport,48.7928009,-122.538002,170,United States,US,Washington,US-WA,WA,Bellingham,KBLI,BLI,BLI,,2008-06-13T14:30:04+00:00
+3408,KBIL,medium_airport,Billings Logan International Airport,45.807701,-108.542999,3652,United States,US,Montana,US-MT,MT,Billings,KBIL,BIL,BIL,,2021-11-20T15:29:45+00:00
+5360,PAFA,medium_airport,Fairbanks International Airport,64.815102,-147.856003,439,United States,US,Alaska,US-AK,AK,Fairbanks,PAFA,FAI,FAI,,2024-04-03T18:56:53+00:00
+3559,KGNV,medium_airport,Gainesville Regional Airport,29.69009972,-82.27179718,152,United States,US,Florida,US-FL,FL,Gainesville,KGNV,GNV,GNV,,2013-05-15T09:57:56+00:00
+3451,KCID,medium_airport,The Eastern Iowa Airport,41.884701,-91.7108,869,United States,US,Iowa,US-IA,IA,Cedar Rapids,KCID,CID,CID,,2021-11-20T15:30:19+00:00
+3523,KFAR,medium_airport,Hector International Airport,46.92070007,-96.81580353,902,United States,US,North Dakota,US-ND,ND,Fargo,KFAR,FAR,FAR,http://www.fargoairport.com/,2008-06-13T14:30:04+00:00
+3911,KSWF,medium_airport,New York Stewart International Airport,41.504101,-74.104797,491,United States,US,New York,US-NY,NY,Newburgh,KSWF,SWF,SWF,https://www.swfny.com/,2024-05-09T15:27:17+00:00
+3541,KFSD,medium_airport,Sioux Falls Regional Airport / Joe Foss Field,43.585463,-96.741152,1429,United States,US,South Dakota,US-SD,SD,Sioux Falls,KFSD,FSD,FSD,http://www.sfairport.com/,2021-03-03T12:12:22+00:00
+3854,KROA,medium_airport,Roanoke–Blacksburg Regional Airport,37.3255,-79.975403,1175,United States,US,Virginia,US-VA,VA,Roanoke,KROA,ROA,ROA,http://www.roanokeairport.com/,2021-11-20T15:34:21+00:00
+3609,KILM,medium_airport,Wilmington International Airport,34.27059937,-77.90260315,32,United States,US,North Carolina,US-NC,NC,Wilmington,KILM,ILM,ILM,,2008-06-13T14:30:04+00:00
+3517,KEUG,medium_airport,Mahlon Sweet Field,44.12459946,-123.211998,374,United States,US,Oregon,US-OR,OR,Eugene,KEUG,EUG,EUG,,2008-06-13T14:30:04+00:00
+3616,KISP,medium_airport,Long Island Mac Arthur Airport,40.79520035,-73.10019684,99,United States,US,New York,US-NY,NY,Islip,KISP,ISP,ISP,,2010-01-23T11:27:54+00:00
+3437,KBZN,medium_airport,Bozeman Yellowstone International Airport,45.7775,-111.153,4473,United States,US,Montana,US-MT,MT,Bozeman,KBZN,BZN,BZN,,2024-04-02T16:29:35+00:00
+3491,KDLH,medium_airport,Duluth International Airport,46.842098,-92.193604,1428,United States,US,Minnesota,US-MN,MN,Duluth,KDLH,DLH,DLH,http://www.duluthairport.com/,2022-01-28T17:34:15+00:00
+3647,KLNK,medium_airport,Lincoln Airport,40.85100174,-96.75920105,1219,United States,US,Nebraska,US-NE,NE,Lincoln,KLNK,LNK,LNK,http://www.lincolnairport.com/,2008-06-13T14:30:04+00:00
+3763,KPAE,medium_airport,Seattle Paine Field International Airport,47.9063,-122.281998,606,United States,US,Washington,US-WA,WA,Everett,KPAE,PAE,PAE,,2023-10-05T17:08:44+00:00
+3356,KABE,medium_airport,Lehigh Valley International Airport,40.651773,-75.442797,393,United States,US,Pennsylvania,US-PA,PA,Allentown,KABE,ABE,ABE,,2022-03-04T10:29:37+00:00
+3663,KMAF,medium_airport,Midland International Air and Space Port,31.942499,-102.202003,2871,United States,US,Texas,US-TX,TX,Midland,KMAF,MAF,MAF,,2022-10-23T15:13:52+00:00
+3700,KMOB,medium_airport,Mobile Regional Airport,30.6912,-88.242798,219,United States,US,Alabama,US-AL,AL,Mobile,KMOB,MOB,MOB,http://www.mobairport.com/,2021-11-20T15:04:45+00:00
+21410,KXNA,medium_airport,Northwest Arkansas National Airport,36.281898,-94.306801,1287,United States,US,Arkansas,US-AR,AR,Fayetteville/Springdale/Rogers,KXNA,XNA,XNA,http://www.flyxna.com/,2023-06-22T17:27:17+00:00
+21114,KSTS,medium_airport,Charles M. Schulz Sonoma County Airport,38.50899887,-122.8130035,128,United States,US,California,US-CA,CA,Santa Rosa,KSTS,STS,STS,http://www.sonomacountyairport.org/,2014-04-11T19:00:49+00:00
+3693,KMLB,medium_airport,Melbourne Orlando International Airport,28.1028,-80.645302,33,United States,US,Florida,US-FL,FL,Melbourne,KMLB,MLB,MLB,https://www.mlbair.com/,2021-10-07T06:37:28+00:00
+19308,KASE,medium_airport,Aspen-Pitkin County Airport (Sardy Field),39.223202,-106.869003,7820,United States,US,Colorado,US-CO,CO,Aspen,KASE,ASE,ASE,http://aspenairport.com/,2022-12-15T16:06:02+00:00
+3429,KBTR,medium_airport,Baton Rouge Metropolitan Airport,30.533199,-91.149597,70,United States,US,Louisiana,US-LA,LA,Baton Rouge,KBTR,BTR,BTR,,2018-09-15T18:52:59+00:00
+3619,KJAN,medium_airport,Jackson-Medgar Wiley Evers International Airport,32.311199,-90.075897,346,United States,US,Mississippi,US-MS,MS,Jackson,KJAN,JAN,JAN,,2021-11-20T15:34:45+00:00
+3466,KCRP,medium_airport,Corpus Christi International Airport,27.770399,-97.501198,44,United States,US,Texas,US-TX,TX,Corpus Christi,KCRP,CRP,CRP,,2021-11-20T15:35:15+00:00
+3857,KRST,medium_airport,Rochester International Airport,43.908298,-92.5,1317,United States,US,Minnesota,US-MN,MN,Rochester,KRST,RST,RST,,2021-11-21T15:10:22+00:00
+3629,KLAN,medium_airport,Capital City Airport,42.77870178,-84.58740234,861,United States,US,Michigan,US-MI,MI,Lansing,KLAN,LAN,LAN,,2008-06-13T14:30:04+00:00
+3708,KMSO,medium_airport,Missoula International Airport,46.91630173,-114.0910034,3206,United States,US,Montana,US-MT,MT,Missoula,KMSO,MSO,MSO,,2010-01-23T11:28:00+00:00
+3388,KAVP,medium_airport,Wilkes Barre Scranton International Airport,41.33850098,-75.7233963,962,United States,US,Pennsylvania,US-PA,PA,Wilkes-Barre/Scranton,KAVP,AVP,AVP,http://www.flyavp.com/,2012-06-17T10:28:37+00:00
+3360,KACK,medium_airport,Nantucket Memorial Airport,41.25310135,-70.06020355,47,United States,US,Massachusetts,US-MA,MA,Nantucket,KACK,ACK,ACK,,2010-01-23T11:27:45+00:00
+3789,KPRC,medium_airport,Prescott International Airport - Ernest A. Love Field,34.654499,-112.419998,5045,United States,US,Arizona,US-AZ,AZ,Prescott,KPRC,PRC,PRC,,2021-11-20T15:32:33+00:00
+3409,KBIS,medium_airport,Bismarck Municipal Airport,46.77270126,-100.7460022,1661,United States,US,North Dakota,US-ND,ND,Bismarck,KBIS,BIS,BIS,http://bismarckairport.com/,2008-06-13T14:30:04+00:00
+3467,KCRW,medium_airport,Yeager Airport,38.3731,-81.593201,981,United States,US,West Virginia,US-WV,WV,Charleston,KCRW,CRW,CRW,,2021-11-20T16:31:05+00:00
+3557,KGJT,medium_airport,Grand Junction Regional Airport,39.126663,-108.529387,4858,United States,US,Colorado,US-CO,CO,Grand Junction,KGJT,GJT,GJT,http://www.gjairport.com/,2021-10-13T10:57:04+00:00
+3770,KPHF,medium_airport,Newport News Williamsburg International Airport,37.131901,-76.492996,42,United States,US,Virginia,US-VA,VA,Newport News,KPHF,PHF,PHF,,2022-10-22T16:30:49+00:00
+20105,KHXD,medium_airport,Hilton Head Airport,32.2244,-80.697502,19,United States,US,South Carolina,US-SC,SC,Hilton Head Island,KHXD,HHH,HXD,https://www.hiltonheadairport.com/,2024-04-03T17:53:11+00:00
+20578,KMVY,small_airport,Martha's Vineyard Airport,41.39310074,-70.61430359,67,United States,US,Massachusetts,US-MA,MA,Martha's Vineyard,KMVY,MVY,MVY,,2010-09-24T19:19:43+00:00
+3530,KFLG,medium_airport,Flagstaff Pulliam International Airport,35.1385,-111.670998,7014,United States,US,Arizona,US-AZ,AZ,Flagstaff,KFLG,FLG,FLG,,2021-11-21T15:10:54+00:00
+3535,KFNT,medium_airport,Bishop International Airport,42.9654007,-83.74359894,782,United States,US,Michigan,US-MI,MI,Flint,KFNT,FNT,FNT,,2008-06-13T14:30:04+00:00
+3571,KGTF,medium_airport,Great Falls International Airport,47.48199844,-111.3710022,3680,United States,US,Montana,US-MT,MT,Great Falls,KGTF,GTF,GTF,,2010-01-23T11:27:52+00:00
+3679,KMFR,medium_airport,Rogue Valley International Medford Airport,42.37419891,-122.8730011,1335,United States,US,Oregon,US-OR,OR,Medford,KMFR,MFR,MFR,,2008-06-13T14:30:04+00:00
+3791,KPSM,medium_airport,Portsmouth International at Pease Airport,43.07789993,-70.82330322,100,United States,US,New Hampshire,US-NH,NH,Portsmouth,KPSM,PSM,PSM,,2009-12-14T10:39:21+00:00
+3617,KIWA,medium_airport,Phoenix–Mesa Gateway Airport,33.3078,-111.654999,1382,United States,US,Arizona,US-AZ,AZ,Mesa,KIWA,AZA,IWA,https://www.gatewayairport.com/,2024-05-19T15:22:12+00:00
+3925,KTOL,medium_airport,Eugene F. Kranz Toledo Express Airport,41.5868,-83.8078,683,United States,US,Ohio,US-OH,OH,Toledo,KTOL,TOL,TOL,,2021-10-12T12:01:10+00:00
+3933,KTVC,medium_airport,Cherry Capital Airport,44.74140167,-85.5821991,624,United States,US,Michigan,US-MI,MI,Traverse City,KTVC,TVC,TVC,,2008-06-13T14:30:04+00:00
+3961,KNYL,medium_airport,Yuma International Airport / Marine Corps Air Station Yuma,32.650938,-114.609375,213,United States,US,Arizona,US-AZ,AZ,Yuma,KNYL,YUM,NYL,,2024-04-02T19:38:15+00:00
+3368,KAGS,medium_airport,Augusta Regional At Bush Field,33.3699,-81.9645,144,United States,US,Georgia,US-GA,GA,Augusta,KAGS,AGS,AGS,,2021-11-20T15:40:33+00:00
+3928,KTRI,medium_airport,Tri-Cities Regional TN/VA Airport,36.475201,-82.407401,1519,United States,US,Tennessee,US-TN,TN,Blountville,KTRI,TRI,TRI,,2022-09-17T22:53:50+00:00
+3773,KPIA,medium_airport,General Wayne A. Downing Peoria International Airport,40.6642,-89.693298,660,United States,US,Illinois,US-IL,IL,Peoria,KPIA,PIA,PIA,,2021-11-20T15:42:11+00:00
+3794,KPUB,medium_airport,Pueblo Memorial Airport,38.289101,-104.497002,4726,United States,US,Colorado,US-CO,CO,Pueblo,KPUB,PUB,PUB,,2021-07-31T17:03:20+00:00
+3505,KEGE,medium_airport,Eagle County Regional Airport,39.64260101,-106.9179993,6548,United States,US,Colorado,US-CO,CO,Eagle,KEGE,EGE,EGE,http://www.eaglecounty.us/airport/,2015-07-27T15:08:23+00:00
+3518,KEVV,medium_airport,Evansville Regional Airport,38.03699875,-87.53240204,418,United States,US,Indiana,US-IN,IN,Evansville,KEVV,EVV,EVV,,2010-09-24T10:24:09+00:00
+3390,KAZO,medium_airport,Kalamazoo Battle Creek International Airport,42.23490143,-85.55210114,874,United States,US,Michigan,US-MI,MI,Kalamazoo,KAZO,AZO,AZO,,2008-06-13T14:30:04+00:00
+19320,KATW,medium_airport,Appleton International Airport,44.258099,-88.519096,918,United States,US,Wisconsin,US-WI,WI,Appleton,KATW,ATW,ATW,http://atwairport.com/,2024-04-03T18:45:25+00:00
+21065,KSGU,medium_airport,St George Regional Airport,37.036389,-113.510306,2941,United States,US,Utah,US-UT,UT,St George,KSGU,SGU,SGU,https://www.flysgu.org,2022-03-04T16:02:31+00:00
+3419,KBMI,medium_airport,Central Illinois Regional Airport at Bloomington-Normal,40.4771,-88.915901,871,United States,US,Illinois,US-IL,IL,Bloomington/Normal,KBMI,BMI,BMI,,2021-11-20T15:38:55+00:00
+3465,KCPR,medium_airport,Casper-Natrona County International Airport,42.908001,-106.463997,5350,United States,US,Wyoming,US-WY,WY,Casper,KCPR,CPR,CPR,,2018-12-27T21:30:47+00:00
+3929,KTTN,medium_airport,Trenton Mercer Airport,40.276699,-74.813499,213,United States,US,New Jersey,US-NJ,NJ,Ewing Township,KTTN,TTN,TTN,,2024-07-12T05:51:34+00:00
+3561,KGPT,medium_airport,Gulfport Biloxi International Airport,30.407301,-89.070099,28,United States,US,Mississippi,US-MS,MS,Gulfport,KGPT,GPT,GPT,,2021-11-20T15:05:23+00:00
+3681,KMGM,medium_airport,Montgomery Regional (Dannelly Field) Airport,32.300598,-86.393997,221,United States,US,Alabama,US-AL,AL,Montgomery,KMGM,MGM,MGM,http://www.flymgm.com/,2022-10-13T12:15:15+00:00
+3459,KCMI,medium_airport,University of Illinois Willard Airport,40.039819,-88.276249,755,United States,US,Illinois,US-IL,IL,Savoy,KCMI,CMI,CMI,,2022-03-04T14:23:50+00:00
+20193,KITH,medium_airport,Ithaca Tompkins Regional Airport,42.49100113,-76.45839691,1099,United States,US,New York,US-NY,NY,Ithaca,KITH,ITH,ITH,,2009-06-26T08:34:12+00:00
+3882,KSHV,medium_airport,Shreveport Regional Airport,32.446602,-93.8256,258,United States,US,Louisiana,US-LA,LA,Shreveport,KSHV,SHV,SHV,,2018-09-15T19:00:21+00:00
+3402,KBFL,medium_airport,Meadows Field,35.433601,-119.056999,510,United States,US,California,US-CA,CA,Bakersfield,KBFL,BFL,BFL,,2021-04-14T15:21:17+00:00
+3363,KACY,medium_airport,Atlantic City International Airport,39.45759964,-74.57720184,75,United States,US,New Jersey,US-NJ,NJ,Atlantic City,KACY,ACY,ACY,,2008-06-13T14:30:04+00:00
+5379,PAJN,medium_airport,Juneau International Airport,58.355,-134.576004,21,United States,US,Alaska,US-AK,AK,Juneau,PAJN,JNU,JNU,https://juneau.org/airport,2024-04-29T19:12:09+00:00
+3948,KVPS,medium_airport,Destin-Fort Walton Beach Airport,30.4832,-86.525398,87,United States,US,Florida,US-FL,FL,Valparaiso,KVPS,VPS,VPS,http://www.flyvps.com/,2021-11-20T15:43:19+00:00
+3455,KCLL,medium_airport,Easterwood Field,30.58860016,-96.36380005,320,United States,US,Texas,US-TX,TX,College Station,KCLL,CLL,CLL,,2010-01-23T11:27:48+00:00
+3678,KMFE,medium_airport,McAllen Miller International Airport,26.176141,-98.237965,107,United States,US,Texas,US-TX,TX,McAllen,KMFE,MFE,MFE,,2021-07-30T14:52:03+00:00
+3510,KELM,medium_airport,Elmira Corning Regional Airport,42.15990067,-76.89160156,954,United States,US,New York,US-NY,NY,Elmira/Corning,KELM,ELM,ELM,,2008-06-13T14:30:04+00:00
+3543,KFSM,medium_airport,Fort Smith Regional Airport,35.336601,-94.367401,469,United States,US,Arkansas,US-AR,AR,Fort Smith,KFSM,FSM,FSM,,2021-11-21T15:15:25+00:00
+3606,KIDA,medium_airport,Idaho Falls Regional Airport,43.514599,-112.070999,4744,United States,US,Idaho,US-ID,ID,Idaho Falls,KIDA,IDA,IDA,,2017-08-04T10:23:34+00:00
+3654,KLSE,medium_airport,La Crosse Regional Airport,43.879002,-91.256699,655,United States,US,Wisconsin,US-WI,WI,La Crosse,KLSE,LSE,LSE,http://www.lseairport.com/,2022-02-11T17:33:48+00:00
+3695,KMLI,medium_airport,Quad City International Airport,41.448502,-90.5075,590,United States,US,Illinois,US-IL,IL,Moline,KMLI,MLI,MLI,,2021-11-20T15:39:23+00:00
+3893,KSMX,medium_airport,Santa Maria Public Airport Captain G Allan Hancock Field,34.898899,-120.457001,261,United States,US,California,US-CA,CA,Santa Maria,KSMX,SMX,SMX,,2021-10-15T21:34:41+00:00
+3527,KGPI,medium_airport,Glacier Park International Airport,48.3105011,-114.2559967,2977,United States,US,Montana,US-MT,MT,Kalispell,KGPI,FCA,GPI,http://www.iflyglacier.com/,2009-01-11T20:53:20+00:00
+3361,KACT,medium_airport,Waco Regional Airport,31.61129951,-97.23049927,516,United States,US,Texas,US-TX,TX,Waco,KACT,ACT,ACT,,2008-06-13T14:30:04+00:00
+3476,KCYS,medium_airport,Cheyenne Regional Jerry Olson Field,41.155701,-104.811997,6159,United States,US,Wyoming,US-WY,WY,Cheyenne,KCYS,CYS,CYS,,2023-06-09T13:38:03+00:00
+3599,KHVN,medium_airport,Tweed New Haven Airport,41.26369858,-72.88680267,12,United States,US,Connecticut,US-CT,CT,New Haven,KHVN,HVN,HVN,,2010-01-23T11:27:52+00:00
+3884,KSJT,medium_airport,San Angelo Regional Mathis Field,31.35770035,-100.4960022,1919,United States,US,Texas,US-TX,TX,San Angelo,KSJT,SJT,SJT,,2008-06-13T14:30:04+00:00
+21300,KUNV,medium_airport,State College Regional Airport,40.849374,-77.84852,1239,United States,US,Pennsylvania,US-PA,PA,State College,KUNV,SCE,UNV,http://universityparkairport.com/,2024-07-22T13:59:08+00:00
+3845,KRFD,medium_airport,Chicago Rockford International Airport,42.1954,-89.097198,742,United States,US,Illinois,US-IL,IL,Chicago/Rockford,KRFD,RFD,RFD,,2021-11-20T15:46:22+00:00
+3357,KABI,medium_airport,Abilene Regional Airport,32.41130066,-99.68190002,1791,United States,US,Texas,US-TX,TX,Abilene,KABI,ABI,ABI,,2011-09-03T02:33:57+00:00
+20822,KPGD,medium_airport,Punta Gorda Airport,26.9202,-81.990501,26,United States,US,Florida,US-FL,FL,Punta Gorda,KPGD,PGD,PGD,http://www.flypgd.com/,2024-08-02T18:30:32+00:00
+3553,KGFK,medium_airport,Grand Forks International Airport,47.949299,-97.176102,845,United States,US,North Dakota,US-ND,ND,Grand Forks,KGFK,GFK,GFK,http://www.gfkairport.com/,2016-12-13T09:15:59+00:00
+3841,KRDD,medium_airport,Redding Municipal Airport,40.50899887,-122.2929993,505,United States,US,California,US-CA,CA,Redding,KRDD,RDD,RDD,,2010-01-23T11:28:05+00:00
+3603,KIAG,medium_airport,Niagara Falls International Airport,43.1073,-78.946198,589,United States,US,New York,US-NY,NY,Niagara Falls,KIAG,IAG,IAG,,2021-05-29T06:35:00+00:00
+3746,KOGD,medium_airport,Ogden Hinckley Airport,41.19589996,-112.012001,4473,United States,US,Utah,US-UT,UT,Ogden,KOGD,OGD,OGD,http://flyogden.com/,2015-09-10T21:38:51+00:00
+3442,KCDC,medium_airport,Cedar City Regional Airport,37.70100021,-113.098999,5622,United States,US,Utah,US-UT,UT,Cedar City,KCDC,CDC,CDC,,2008-06-13T14:30:04+00:00
+3515,KERI,medium_airport,Erie International Tom Ridge Field,42.083127,-80.173867,732,United States,US,Pennsylvania,US-PA,PA,Erie,KERI,ERI,ERI,,2021-11-20T15:48:44+00:00
+3525,KFAY,medium_airport,Fayetteville Regional Airport - Grannis Field,34.991199,-78.880302,189,United States,US,North Carolina,US-NC,NC,Fayetteville,KFAY,FAY,FAY,,2021-02-26T17:02:58+00:00
+19654,KDRO,medium_airport,Durango La Plata County Airport,37.151501,-107.753998,6685,United States,US,Colorado,US-CO,CO,Durango,KDRO,DRO,DRO,http://www.durangogov.org/airport/index.cfm,2024-04-03T00:40:30+00:00
+3464,KCOU,medium_airport,Columbia Regional Airport,38.8181,-92.219597,889,United States,US,Missouri,US-MO,MO,Columbia,KCOU,COU,COU,,2019-08-14T08:20:26+00:00
+3891,KSLN,medium_airport,Salina Municipal Airport,38.79100037,-97.65219879,1288,United States,US,Kansas,US-KS,KS,Salina,KSLN,SLN,SLN,,2008-06-13T14:30:04+00:00
+3897,KSPI,medium_airport,Abraham Lincoln Capital Airport,39.844101,-89.677902,598,United States,US,Illinois,US-IL,IL,Springfield,KSPI,SPI,SPI,,2021-11-20T15:49:18+00:00
+20870,KPSC,medium_airport,Tri Cities Airport,46.264702,-119.119003,410,United States,US,Washington,US-WA,WA,Pasco,KPSC,PSC,PSC,,2024-05-16T18:43:54+00:00
+3756,KORH,medium_airport,Worcester Regional Airport,42.2673,-71.875702,1009,United States,US,Massachusetts,US-MA,MA,Worcester,KORH,ORH,ORH,,2021-10-06T17:46:21+00:00
+3872,KSCK,medium_airport,Stockton Metropolitan Airport,37.893279,-121.238079,33,United States,US,California,US-CA,CA,Stockton,KSCK,SCK,SCK,http://www.sjgov.org/airport/,2024-04-02T22:03:37+00:00
+3426,KBRO,medium_airport,Brownsville South Padre Island International Airport,25.90679932,-97.42590332,22,United States,US,Texas,US-TX,TX,Brownsville,KBRO,BRO,BRO,,2008-06-13T14:30:04+00:00
+3662,KLYH,medium_airport,Lynchburg Regional Airport - Preston Glenn Field,37.326698,-79.200401,938,United States,US,Virginia,US-VA,VA,Lynchburg,KLYH,LYH,LYH,,2022-06-15T08:15:15+00:00
+3856,KROW,medium_airport,Roswell Air Center Airport,33.301601,-104.530998,3671,United States,US,New Mexico,US-NM,NM,Roswell,KROW,ROW,ROW,,2020-05-30T15:27:01+00:00
+46530,KECP,medium_airport,Northwest Florida Beaches International Airport,30.357106,-85.795414,69,United States,US,Florida,US-FL,FL,Panama City Beach,KECP,ECP,ECP,http://iflybeaches.com,2022-03-14T11:31:42+00:00
+3702,KMOT,medium_airport,Minot International Airport,48.25939941,-101.2799988,1716,United States,US,North Dakota,US-ND,ND,Minot,KMOT,MOT,MOT,,2008-06-13T14:30:04+00:00
+3843,KRDM,medium_airport,Roberts Field,44.254101,-121.150002,3080,United States,US,Oregon,US-OR,OR,Redmond,KRDM,RDM,RDM,,2024-08-22T16:02:05+00:00
+3937,KTYR,medium_airport,Tyler Pounds Regional Airport,32.35409927,-95.40239716,544,United States,US,Texas,US-TX,TX,Tyler,KTYR,TYR,TYR,,2008-06-13T14:30:04+00:00
+3614,KIPT,medium_airport,Williamsport Regional Airport,41.242126,-76.92245,529,United States,US,Pennsylvania,US-PA,PA,Williamsport,KIPT,IPT,IPT,,2024-04-03T17:46:43+00:00
+20890,KPVU,medium_airport,Provo-Utah Lake International Airport,40.2192,-111.723,4497,United States,US,Utah,US-UT,UT,Provo,KPVU,PVU,PVU,http://www.provo.org/city-services/airport,2021-07-31T17:04:52+00:00
+3591,KHRL,medium_airport,Valley International Airport,26.22850037,-97.65440369,36,United States,US,Texas,US-TX,TX,Harlingen,KHRL,HRL,HRL,,2008-06-13T14:30:04+00:00
+3582,KHLN,medium_airport,Helena Regional Airport,46.6068,-111.983002,3877,United States,US,Montana,US-MT,MT,Helena,KHLN,HLN,HLN,,2021-12-15T15:57:52+00:00
+3555,KGGG,medium_airport,East Texas Regional Airport,32.38399887,-94.71150208,365,United States,US,Texas,US-TX,TX,Longview,KGGG,GGG,GGG,,2008-06-13T14:30:04+00:00
+3697,KMLU,medium_airport,Monroe Regional Airport,32.510899,-92.037697,79,United States,US,Louisiana,US-LA,LA,Monroe,KMLU,MLU,MLU,,2022-03-17T18:25:42+00:00
+3642,KLFT,medium_airport,Lafayette Regional Airport,30.205299,-91.987602,42,United States,US,Louisiana,US-LA,LA,Lafayette,KLFT,LFT,LFT,http://www.lftairport.com/Home,2021-11-20T15:05:56+00:00
+3651,KLRD,medium_airport,Laredo International Airport,27.54380035,-99.46160126,508,United States,US,Texas,US-TX,TX,Laredo,KLRD,LRD,LRD,,2008-06-13T14:30:04+00:00
+3664,KMBS,medium_airport,MBS International Airport,43.532902,-84.079597,668,United States,US,Michigan,US-MI,MI,Saginaw,KMBS,MBS,MBS,http://www.mbsairport.org/,2021-11-20T15:51:33+00:00
+3362,KACV,medium_airport,California Redwood Coast-Humboldt County Airport,40.978101,-124.109,221,United States,US,California,US-CA,CA,Arcata/Eureka,KACV,ACV,ACV,,2021-11-21T11:19:58+00:00
+3404,KBGM,medium_airport,Greater Binghamton/Edwin A Link field,42.20869827,-75.97979736,1636,United States,US,New York,US-NY,NY,Binghamton,KBGM,BGM,BGM,http://binghamtonairport.com/,2010-01-23T11:27:46+00:00
+3638,KLCK,medium_airport,Rickenbacker International Airport,39.813801,-82.927803,744,United States,US,Ohio,US-OH,OH,Columbus,KLCK,LCK,LCK,http://rickenbackerinlandport.com/en/rickenbacker-international-airport/,2021-08-08T06:03:39+00:00
+3501,KEAU,medium_airport,Chippewa Valley Regional Airport,44.86579895,-91.48429871,913,United States,US,Wisconsin,US-WI,WI,Eau Claire,KEAU,EAU,EAU,,2008-06-13T14:30:04+00:00
+3634,KLBE,medium_airport,Arnold Palmer Regional Airport,40.275902,-79.4048,1199,United States,US,Pennsylvania,US-PA,PA,Latrobe,KLBE,LBE,LBE,,2022-01-19T07:57:00+00:00
+3635,KLBF,medium_airport,North Platte Regional Airport Lee Bird Field,41.12620163,-100.6839981,2777,United States,US,Nebraska,US-NE,NE,North Platte,KLBF,LBF,LBF,,2010-01-23T11:27:55+00:00
+3870,KSBY,medium_airport,Salisbury Ocean City Wicomico Regional Airport,38.34049988,-75.51029968,52,United States,US,Maryland,US-MD,MD,Salisbury,KSBY,SBY,SBY,,2008-06-13T14:30:04+00:00
+3909,KSUX,medium_airport,Sioux Gateway Airport / Brigadier General Bud Day Field,42.397605,-96.382237,1098,United States,US,Iowa,US-IA,IA,Sioux City,KSUX,SUX,SUX,https://www.sioux-city.org/government/departments-a-f/airport,2021-11-20T15:52:32+00:00
+3468,KCSG,medium_airport,Columbus Metropolitan Airport,32.5163002,-84.93890381,397,United States,US,Georgia,US-GA,GA,Columbus,KCSG,CSG,CSG,,2008-06-13T14:30:04+00:00
+3482,KDBQ,medium_airport,Dubuque Regional Airport,42.402,-90.709503,1077,United States,US,Iowa,US-IA,IA,Dubuque,KDBQ,DBQ,DBQ,,2022-03-04T14:31:05+00:00
+3550,KGCK,medium_airport,Garden City Regional Airport,37.92750168,-100.723999,2891,United States,US,Kansas,US-KS,KS,Garden City,KGCK,GCK,GCK,,2016-01-22T15:07:05+00:00
+19529,KCNY,medium_airport,Canyonlands Regional Airport,38.755001,-109.754997,4557,United States,US,Utah,US-UT,UT,Moab,KCNY,CNY,CNY,https://www.grandcountyutah.net/263/Airport,2024-04-03T18:08:53+00:00
+20565,KMTJ,medium_airport,Montrose Regional Airport,38.5098,-107.893997,5759,United States,US,Colorado,US-CO,CO,Montrose,KMTJ,MTJ,MTJ,https://montroseairport.com/,2023-04-11T11:43:33+00:00
+21066,KSHD,medium_airport,Shenandoah Valley Regional Airport,38.263802,-78.8964,1201,United States,US,Virginia,US-VA,VA,Weyers Cave,KSHD,SHD,SHD,,2022-02-22T18:04:27+00:00
+3508,KEKO,medium_airport,Elko Regional Airport,40.82490158,-115.7919998,5140,United States,US,Nevada,US-NV,NV,Elko,KEKO,EKO,EKO,,2008-06-13T14:30:04+00:00
+3683,KMHK,medium_airport,Manhattan Regional Airport,39.14099884,-96.67079926,1057,United States,US,Kansas,US-KS,KS,Manhattan,KMHK,MHK,MHK,,2008-06-13T14:30:04+00:00
+3898,KSPS,medium_airport,Wichita Falls Municipal Airport / Sheppard Air Force Base,33.9888,-98.491898,1019,United States,US,Texas,US-TX,TX,Wichita Falls,KSPS,SPS,SPS,http://www.flywichitafalls.net/,2023-12-29T02:57:54+00:00
+20220,KJQF,medium_airport,Concord-Padgett Regional Airport,35.387798,-80.709099,705,United States,US,North Carolina,US-NC,NC,Concord,KJQF,USA,JQF,http://www.concordnc.gov/Departments/Concord-Regional-Airport,2021-05-29T06:48:42+00:00
+19406,KBRD,medium_airport,Brainerd Lakes Regional Airport,46.402861,-94.129727,1232,United States,US,Minnesota,US-MN,MN,Brainerd,KBRD,BRD,BRD,http://brainerdairport.com/,2022-02-11T17:20:40+00:00
+3365,KAEX,medium_airport,Alexandria International Airport,31.3274,-92.549797,89,United States,US,Louisiana,US-LA,LA,Alexandria,KAEX,AEX,AEX,,2021-03-01T15:20:13+00:00
+3764,KPAH,medium_airport,Barkley Regional Airport,37.06079865,-88.77380371,410,United States,US,Kentucky,US-KY,KY,Paducah,KPAH,PAH,PAH,,2008-06-13T14:30:04+00:00
+3865,KSAW,medium_airport,Marquette/Sawyer International Airport,46.3536,-87.395401,1221,United States,US,Michigan,US-MI,MI,Gwinn,KSAW,MQT,SAW,http://www.sawyerairport.com/,2023-07-13T22:39:48+00:00
+3674,KMEI,medium_airport,Key Field / Meridian Regional Airport,32.3326,-88.7519,297,United States,US,Mississippi,US-MS,MS,Meridian,KMEI,MEI,MEI,,2021-02-26T15:32:30+00:00
+3776,KPIH,medium_airport,Pocatello Regional Airport,42.90980148,-112.5960007,4452,United States,US,Idaho,US-ID,ID,Pocatello,KPIH,PIH,PIH,,2008-06-13T14:30:04+00:00
+3955,KWYS,medium_airport,Yellowstone Airport,44.6884,-111.117996,6649,United States,US,Montana,US-MT,MT,West Yellowstone,KWYS,WYS,WYS,https://yellowstoneairport.mdt.mt.gov,2024-04-02T15:43:33+00:00
+3564,KGRI,medium_airport,Central Nebraska Regional Airport,40.96749878,-98.30960083,1847,United States,US,Nebraska,US-NE,NE,Grand Island,KGRI,GRI,GRI,,2008-06-13T14:30:04+00:00
+5382,PAKT,medium_airport,Ketchikan International Airport,55.35559845,-131.7140045,89,United States,US,Alaska,US-AK,AK,Ketchikan,PAKT,KTN,KTN,,2010-01-23T11:28:11+00:00
+3375,KALO,medium_airport,Waterloo Regional Airport,42.55709839,-92.40029907,873,United States,US,Iowa,US-IA,IA,Waterloo,KALO,ALO,ALO,,2008-06-13T14:30:04+00:00
+3595,KHTS,medium_airport,Tri-State Airport / Milton J. Ferguson Field,38.366699,-82.557999,828,United States,US,West Virginia,US-WV,WV,Huntington,KHTS,HTS,HTS,,2022-12-28T09:36:47+00:00
+3759,KOTH,medium_airport,Southwest Oregon Regional Airport,43.417099,-124.2460022,17,United States,US,Oregon,US-OR,OR,North Bend,KOTH,OTH,OTH,,2008-06-13T14:30:04+00:00
+3777,KPIR,medium_airport,Pierre Regional Airport,44.38270187,-100.2860031,1744,United States,US,South Dakota,US-SD,SD,Pierre,KPIR,PIR,PIR,,2010-01-23T11:28:03+00:00
+3935,KTWF,medium_airport,Joslin Field Magic Valley Regional Airport,42.4818,-114.487999,4154,United States,US,Idaho,US-ID,ID,Twin Falls,KTWF,TWF,TWF,,2018-03-05T08:38:40+00:00
+20038,KHDN,medium_airport,Yampa Valley Airport,40.481201,-107.218002,6606,United States,US,Colorado,US-CO,CO,Hayden,KHDN,HDN,HDN,,2024-04-03T00:41:17+00:00
+20883,KPUW,medium_airport,Pullman-Moscow Regional Airport,46.741601,-117.11163,2556,United States,US,Washington,US-WA,WA,Pullman,KPUW,PUW,PUW,http://www.pullman-wa.gov/airport/,2024-07-24T11:55:35+00:00
+3912,KSWO,medium_airport,Stillwater Regional Airport,36.162132,-97.085581,1000,United States,US,Oklahoma,US-OK,OK,Stillwater,KSWO,SWO,SWO,http://stillwater.org/government/city_facilities/stillwater_regional_airport/,2024-04-03T17:29:09+00:00
+3424,KBQK,medium_airport,Brunswick Golden Isles Airport,31.258801,-81.466499,26,United States,US,Georgia,US-GA,GA,Brunswick,KBQK,BQK,BQK,,2024-07-11T12:08:40+00:00
+3447,KCGI,medium_airport,Cape Girardeau Regional Airport,37.2253,-89.570801,342,United States,US,Missouri,US-MO,MO,Cape Girardeau,KCGI,CGI,CGI,,2021-10-13T10:58:36+00:00
+3489,KDHN,medium_airport,Dothan Regional Airport,31.32130051,-85.44960022,401,United States,US,Alabama,US-AL,AL,Dothan,KDHN,DHN,DHN,,2008-06-13T14:30:04+00:00
+3761,KOWB,medium_airport,Owensboro Daviess County Airport,37.74010086,-87.16680145,407,United States,US,Kentucky,US-KY,KY,Owensboro,KOWB,OWB,OWB,,2010-01-23T11:28:03+00:00
+3781,KPLN,medium_airport,Pellston Regional Airport of Emmet County Airport,45.57089996,-84.79669952,721,United States,US,Michigan,US-MI,MI,Pellston,KPLN,PLN,PLN,,2010-01-23T11:28:03+00:00
+3383,KART,medium_airport,Watertown International Airport,43.991901,-76.021698,325,United States,US,New York,US-NY,NY,Watertown,KART,ART,ART,,2022-11-08T16:46:24+00:00
+3577,KHGR,medium_airport,Hagerstown Regional Richard A Henson Field,39.708771,-77.728014,703,United States,US,Maryland,US-MD,MD,Hagerstown,KHGR,HGR,HGR,,2024-04-03T14:19:11+00:00
+20390,KLWB,medium_airport,Greenbrier Valley Airport,37.857914,-80.400438,2302,United States,US,West Virginia,US-WV,WV,Lewisburg,KLWB,LWB,LWB,,2024-04-03T18:42:43+00:00
+19571,KCWA,medium_airport,Central Wisconsin Airport,44.777448,-89.670238,1277,United States,US,Wisconsin,US-WI,WI,Mosinee,KCWA,CWA,CWA,,2024-05-16T18:39:05+00:00
+3358,KABR,medium_airport,Aberdeen Regional Airport,45.44910049,-98.42179871,1302,United States,US,South Dakota,US-SD,SD,Aberdeen,KABR,ABR,ABR,,2008-06-13T14:30:04+00:00
+3423,KBPT,medium_airport,Jack Brooks Regional Airport,29.9508,-94.020699,15,United States,US,Texas,US-TX,TX,Beaumont/Port Arthur,KBPT,BPT,BPT,https://flysetx.com/,2021-02-20T09:48:28+00:00
+3532,KFLO,medium_airport,Florence Regional Airport,34.1853981,-79.72389984,146,United States,US,South Carolina,US-SC,SC,Florence,KFLO,FLO,FLO,,2008-06-13T14:30:04+00:00
+3623,KJLN,medium_airport,Joplin Regional Airport,37.151798,-94.498299,981,United States,US,Missouri,US-MO,MO,Joplin,KJLN,JLN,JLN,,2021-11-20T15:55:45+00:00
+3850,KRKS,medium_airport,Southwest Wyoming Regional Airport,41.5942,-109.065001,6764,United States,US,Wyoming,US-WY,WY,Rock Springs,KRKS,RKS,RKS,,2018-11-25T13:25:27+00:00
+3903,KSTC,medium_airport,Saint Cloud Regional Airport,45.5466,-94.059898,1031,United States,US,Minnesota,US-MN,MN,Saint Cloud,KSTC,STC,STC,,2020-10-13T00:44:13+00:00
+3936,KTXK,medium_airport,Texarkana Regional Airport (Webb Field),33.453701,-93.990997,390,United States,US,Arkansas,US-AR,AR,Texarkana,KTXK,TXK,TXK,,2022-10-23T15:57:10+00:00
+20527,KMMH,small_airport,Mammoth Yosemite Airport,37.625381,-118.84306,7135,United States,US,California,US-CA,CA,Mammoth Lakes,KMMH,MMH,MMH,,2024-05-16T18:42:52+00:00
+3630,KLAR,medium_airport,Laramie Regional Airport,41.31209946,-105.6750031,7284,United States,US,Wyoming,US-WY,WY,Laramie,KLAR,LAR,LAR,,2008-06-13T14:30:04+00:00
+20393,KLWS,medium_airport,Lewiston Nez Perce County Airport,46.37450027,-117.0149994,1442,United States,US,Idaho,US-ID,ID,Lewiston,KLWS,LWS,LWS,,2009-06-26T08:35:55+00:00
+3359,KABY,medium_airport,Southwest Georgia Regional Airport,31.532946,-84.196215,197,United States,US,Georgia,US-GA,GA,Albany,KABY,ABY,ABY,,2021-10-06T17:37:28+00:00
+3637,KLCH,medium_airport,Lake Charles Regional Airport,30.12610054,-93.22329712,15,United States,US,Louisiana,US-LA,LA,Lake Charles,KLCH,LCH,LCH,,2008-06-13T14:30:04+00:00
+21118,KSUN,medium_airport,Friedman Memorial Airport,43.50439835,-114.2959976,5318,United States,US,Idaho,US-ID,ID,Hailey,KSUN,SUN,SUN,,2012-05-10T17:56:16+00:00
+20808,KPBG,medium_airport,Plattsburgh International Airport,44.65090179,-73.4681015,234,United States,US,New York,US-NY,NY,Plattsburgh,KPBG,PBG,PBG,http://www.plattsburghinternationalairport.com/,2008-06-13T14:30:04+00:00
+19929,KGCC,medium_airport,Northeast Wyoming Regional Airport,44.3489,-105.539001,4365,United States,US,Wyoming,US-WY,WY,Gillette,KGCC,GCC,GCC,http://www.iflygillette.com/,2022-02-10T15:52:33+00:00
+20109,KHYS,medium_airport,Hays Regional Airport,38.844521,-99.273148,1999,United States,US,Kansas,US-KS,KS,Hays,KHYS,HYS,HYS,,2024-04-03T13:29:02+00:00
+3691,KMKG,medium_airport,Muskegon County Airport,43.169498,-86.238197,629,United States,US,Michigan,US-MI,MI,Muskegon,KMKG,MKG,MKG,,2019-09-30T16:12:15+00:00
+3520,KEWN,medium_airport,Coastal Carolina Regional Airport,35.07300186,-77.04290009,18,United States,US,North Carolina,US-NC,NC,New Bern,KEWN,EWN,EWN,,2009-12-20T06:46:43+00:00
+3400,KBFF,medium_airport,Western Neb. Rgnl/William B. Heilig Airport,41.87400055,-103.5960007,3967,United States,US,Nebraska,US-NE,NE,Scottsbluff,KBFF,BFF,BFF,,2010-01-26T11:00:03+00:00
+3946,KVLD,medium_airport,Valdosta Regional Airport,30.78249931,-83.27670288,203,United States,US,Georgia,US-GA,GA,Valdosta,KVLD,VLD,VLD,,2008-06-13T14:30:04+00:00
+3958,KYKM,medium_airport,Yakima Air Terminal McAllister Field,46.56819916,-120.5439987,1099,United States,US,Washington,US-WA,WA,Yakima,KYKM,YKM,YKM,,2010-01-23T11:28:09+00:00
+3403,KBFM,medium_airport,Mobile Downtown Airport,30.62680054,-88.06809998,26,United States,US,Alabama,US-AL,AL,Mobile,KBFM,BFM,BFM,,2012-06-29T18:36:42+00:00
+19655,KDRT,medium_airport,Del Rio International Airport,29.37420082,-100.927002,1002,United States,US,Texas,US-TX,TX,Del Rio,KDRT,DRT,DRT,http://www.cityofdelrio.com/index.aspx?NID=412,2012-08-16T18:51:32+00:00
+5408,PASI,medium_airport,Sitka Rocky Gutierrez Airport,57.04710007,-135.3619995,21,United States,US,Alaska,US-AK,AK,Sitka,PASI,SIT,SIT,,2008-06-13T14:30:04+00:00
+20071,KHOB,medium_airport,Lea County Regional Airport,32.6875,-103.217003,3661,United States,US,New Mexico,US-NM,NM,Hobbs,KHOB,HOB,HOB,,2023-04-11T02:05:08+00:00
+20319,KLAW,medium_airport,Lawton Fort Sill Regional Airport,34.567699,-98.416603,1110,United States,US,Oklahoma,US-OK,OK,Lawton,KLAW,LAW,LAW,,2024-04-03T17:27:41+00:00
+3428,KBTM,medium_airport,Bert Mooney Airport,45.95479965,-112.4970016,5550,United States,US,Montana,US-MT,MT,Butte,KBTM,BTM,BTM,,2008-06-13T14:30:04+00:00
+3940,KUIN,medium_airport,Quincy Regional Airport Baldwin Field,39.942699,-91.194603,768,United States,US,Illinois,US-IL,IL,Quincy,KUIN,UIN,UIN,,2024-07-06T09:29:45+00:00
+19530,KCOD,medium_airport,Yellowstone Regional Airport,44.520199,-109.024002,5102,United States,US,Wyoming,US-WY,WY,Cody,KCOD,COD,COD,http://www.flyyra.com/,2023-04-11T01:49:42+00:00
+20824,KPGV,medium_airport,Pitt-Greenville Airport,35.635535,-77.384262,26,United States,US,North Carolina,US-NC,NC,Greenville,KPGV,PGV,PGV,,2024-06-26T13:09:11+00:00
+19984,KGUC,medium_airport,Gunnison Crested Butte Regional Airport,38.534672,-106.934566,7680,United States,US,Colorado,US-CO,CO,Gunnison,KGUC,GUC,GUC,,2024-04-03T00:43:51+00:00
+20709,KOAJ,medium_airport,Albert J Ellis Airport,34.829201,-77.612099,94,United States,US,North Carolina,US-NC,NC,Richlands,KOAJ,OAJ,OAJ,https://flyoaj.com/,2022-11-09T07:50:38+00:00
+21318,KVEL,medium_airport,Vernal Regional Airport,40.436214,-109.511661,5278,United States,US,Utah,US-UT,UT,Vernal,KVEL,VEL,VEL,,2024-07-01T19:05:58+00:00
+19717,KEAT,medium_airport,Pangborn Memorial Airport,47.398899,-120.207001,1249,United States,US,Washington,US-WA,WA,Wenatchee,KEAT,EAT,EAT,http://www.pangbornairport.com/,2024-03-13T09:45:53+00:00
+19982,KGTR,medium_airport,Golden Triangle Regional Airport,33.450298,-88.5914,264,United States,US,Mississippi,US-MS,MS,Columbus/W Point/Starkville,KGTR,GTR,GTR,,2024-05-16T18:41:08+00:00
+3636,KLBL,medium_airport,Liberal Mid-America Regional Airport,37.0442009,-100.9599991,2885,United States,US,Kansas,US-KS,KS,Liberal,KLBL,LBL,LBL,,2010-01-23T11:27:55+00:00
+3453,KCKB,medium_airport,North Central West Virginia Airport,39.2966,-80.228104,1217,United States,US,West Virginia,US-WV,WV,Bridgeport,KCKB,CKB,CKB,,2022-11-02T11:51:30+00:00
+5450,PHMK,medium_airport,Molokai Airport,21.152901,-157.095993,454,United States,US,Hawaii,US-HI,HI,Kaunakakai,PHMK,MKK,MKK,,2022-03-08T16:02:37+00:00
+19716,KEAR,medium_airport,Kearney Regional Airport,40.727001,-99.006798,2131,United States,US,Nebraska,US-NE,NE,Kearney,KEAR,EAR,EAR,,2021-11-20T15:58:34+00:00
+3417,KBLV,medium_airport,Scott AFB/Midamerica Airport,38.5452,-89.835197,459,United States,US,Illinois,US-IL,IL,Belleville,KBLV,BLV,BLV,,2024-04-03T13:20:49+00:00
+3460,KCMX,medium_airport,Houghton County Memorial Airport,47.16839981,-88.4890976,1095,United States,US,Michigan,US-MI,MI,Hancock,KCMX,CMX,CMX,,2008-06-13T14:30:04+00:00
+3624,KJMS,medium_airport,Jamestown Regional Airport,46.92969894,-98.67819977,1500,United States,US,North Dakota,US-ND,ND,Jamestown,KJMS,JMS,JMS,,2010-01-23T11:27:54+00:00
+5393,PAOM,medium_airport,Nome Airport,64.5121994,-165.4450073,37,United States,US,Alaska,US-AK,AK,Nome,PAOM,OME,OME,,2008-06-13T14:30:04+00:00
+3787,KPQI,medium_airport,Presque Isle International Airport,46.688999,-68.0448,534,United States,US,Maine,US-ME,ME,Presque Isle,KPQI,PQI,PQI,,2019-08-02T10:01:01+00:00
+3376,KALW,medium_airport,Walla Walla Regional Airport,46.09489822,-118.288002,1194,United States,US,Washington,US-WA,WA,Walla Walla,KALW,ALW,ALW,,2010-01-23T11:27:46+00:00
+19630,KDIK,medium_airport,Dickinson Theodore Roosevelt Regional Airport,46.797533,-102.801905,2592,United States,US,North Dakota,US-ND,ND,Dickinson,KDIK,DIK,DIK,http://dickinsonairport.com/,2024-04-03T17:10:30+00:00
+19770,KESC,medium_airport,Delta County Airport,45.723199,-87.088623,609,United States,US,Michigan,US-MI,MI,Escanaba,KESC,ESC,ESC,,2024-04-03T14:24:16+00:00
+19380,KBJI,medium_airport,Bemidji Regional Airport,47.50939941,-94.93370056,1391,United States,US,Minnesota,US-MN,MN,Bemidji,KBJI,BJI,BJI,http://www.bemidjiairport.org/,2014-02-18T22:29:14+00:00
+3382,KAPN,medium_airport,Alpena County Regional Airport,45.0780983,-83.56030273,690,United States,US,Michigan,US-MI,MI,Alpena,KAPN,APN,APN,,2010-01-23T11:27:46+00:00
+3612,KINL,medium_airport,Falls International Airport,48.56620026,-93.40309906,1185,United States,US,Minnesota,US-MN,MN,International Falls,KINL,INL,INL,,2008-06-13T14:30:04+00:00
+3565,KGRK,medium_airport,Killeen Regional Airport,31.0672,-97.828903,1015,United States,US,Texas,US-TX,TX,Fort Cavazos,KGRK,GRK,GRK,,2024-07-22T14:51:42+00:00
+3579,KHIB,medium_airport,Range Regional Airport,47.384831,-92.836905,1354,United States,US,Minnesota,US-MN,MN,Hibbing,KHIB,HIB,HIB,,2024-07-04T12:30:08+00:00
+3452,KCIU,medium_airport,Chippewa County International Airport,46.247707,-84.471379,800,United States,US,Michigan,US-MI,MI,Kincheloe,KCIU,CIU,CIU,,2024-06-28T17:54:40+00:00
+5454,PHNY,medium_airport,Lanai Airport,20.785675,-156.951324,1308,United States,US,Hawaii,US-HI,HI,Lanai City,PHNY,LNY,LNY,,2022-03-08T16:02:58+00:00
+3774,KPIB,medium_airport,Hattiesburg Laurel Regional Airport,31.4671,-89.337097,298,United States,US,Mississippi,US-MS,MS,Moselle,KPIB,PIB,PIB,,2022-02-15T15:45:04+00:00
+45961,KBBG,medium_airport,Branson Airport,36.532082,-93.200544,1302,United States,US,Missouri,US-MO,MO,Branson,KBBG,BKG,BBG,http://flybranson.com/,2024-04-03T14:39:40+00:00
+5338,PABE,medium_airport,Bethel Airport,60.77980042,-161.8379974,126,United States,US,Alaska,US-AK,AK,Bethel,PABE,BET,BET,,2010-01-23T11:28:09+00:00
+3846,KRHI,medium_airport,Rhinelander Oneida County Airport,45.63119888,-89.46749878,1624,United States,US,Wisconsin,US-WI,WI,Rhinelander,KRHI,RHI,RHI,,2008-06-13T14:30:04+00:00
+5342,PABR,medium_airport,Wiley Post Will Rogers Memorial Airport,71.285402,-156.766008,44,United States,US,Alaska,US-AK,AK,Utqiaġvik,PABR,BRW,BRW,,2016-12-03T12:42:48+00:00
+26343,PAYA,medium_airport,Yakutat Airport,59.508717,-139.660435,33,United States,US,Alaska,US-AK,AK,Yakutat,PAYA,YAK,YAK,,2021-01-14T15:19:31+00:00
+5395,PAOT,medium_airport,Ralph Wien Memorial Airport,66.88469696,-162.598999,14,United States,US,Alaska,US-AK,AK,Kotzebue,PAOT,OTZ,OTZ,,2010-01-23T11:28:11+00:00
+5446,PHJH,medium_airport,Kapalua Airport,20.9629,-156.673004,256,United States,US,Hawaii,US-HI,HI,Lahaina,PHJH,JHM,JHM,,2022-03-08T16:04:08+00:00
+20727,KOGS,medium_airport,Ogdensburg International Airport,44.6819,-75.4655,297,United States,US,New York,US-NY,NY,Ogdensburg,KOGS,OGS,OGS,https://ogsair.com/,2023-05-12T17:54:02+00:00
+5353,PADQ,medium_airport,Kodiak Airport,57.75,-152.4940033,78,United States,US,Alaska,US-AK,AK,Kodiak,PADQ,ADQ,ADQ,,2010-01-23T11:28:10+00:00
+5405,PASC,medium_airport,Deadhorse Airport,70.19470215,-148.4649963,65,United States,US,Alaska,US-AK,AK,Deadhorse,PASC,SCC,SCC,,2010-01-23T11:28:12+00:00
+3385,KATY,medium_airport,Watertown Regional Airport,44.91400146,-97.15470123,1749,United States,US,South Dakota,US-SD,SD,Watertown,KATY,ATY,ATY,,2010-01-23T11:27:46+00:00
+19668,KDVL,medium_airport,Devils Lake Regional Airport,48.115454,-98.908796,1456,United States,US,North Dakota,US-ND,ND,Devils Lake,KDVL,DVL,DVL,http://www.devilslakeairport.com/,2024-04-03T17:08:29+00:00
+5398,PAPG,medium_airport,Petersburg James A Johnson Airport,56.80170059,-132.9450073,111,United States,US,Alaska,US-AK,AK,Petersburg,PAPG,PSG,PSG,,2010-01-23T11:28:12+00:00
+5354,PADU,medium_airport,Tom Madsen (Dutch Harbor) Airport,53.89881,-166.544996,22,United States,US,Alaska,US-AK,AK,Unalaska,PADU,DUT,DUT,,2021-03-25T10:55:20+00:00
+20177,KIMT,medium_airport,Ford Airport,45.81911,-88.114557,1182,United States,US,Michigan,US-MI,MI,Kingsford,KIMT,IMT,IMT,http://www.fordairport.org/,2024-06-28T17:57:09+00:00
+16092,PADK,medium_airport,Adak Airport,51.883564,-176.642783,18,United States,US,Alaska,US-AK,AK,Adak,PADK,ADK,ADK,,2021-07-23T15:30:05+00:00
+5348,PACV,medium_airport,Merle K (Mudhole) Smith Airport,60.491798,-145.477997,54,United States,US,Alaska,US-AK,AK,Cordova,PACV,CDV,CDV,,2021-01-14T15:29:57+00:00
+5421,PAWG,medium_airport,Wrangell Airport,56.48429871,-132.3699951,49,United States,US,Alaska,US-AK,AK,Wrangell,PAWG,WRG,WRG,,2010-01-23T11:28:13+00:00

@@ -1,0 +1,63 @@
+.flight-details-container {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.6);
+  z-index: 1000;
+  width: 300px;
+  background: linear-gradient(to bottom, rgb(239 228 202), #ffffff);
+}
+
+ul {
+  text-align: left;
+}
+
+li {
+  list-style-type: none;
+  padding: 3px;
+}
+
+li::before {
+  content: "•";
+  color: #FF6347;
+  margin-right: 3px;
+}
+
+.TimeDetails {
+  padding-left: 25px
+}
+
+.flight-details-button {
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3), 4px 4px 8px rgba(0, 0, 0, 0.2), 6px 6px 12px rgba(0, 0, 0, 0.1);
+  background-color: #D9E1DA;
+  border-radius: 3px;
+  border: 1px solid #566963;
+  display: inline-block;
+  cursor: pointer;
+  font-family: Arial;
+  font-size: 16px;
+  padding: 6px 15px;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px #2b665e;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom: 3px;
+  border: none;
+  transition: 0.2s;
+}
+.flight-details-button:hover {
+	background-color:#c4c8c8;
+  scale: 1.05;
+  
+}
+.flight-details-button:active {
+	position:relative;
+	top:1px;
+}
+
+.flight-details-button {
+  display: inline-block;
+}

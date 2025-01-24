@@ -1,0 +1,3 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_name,iso_country,region_name,iso_region,local_region,municipality,gps_code,iata_code,local_code,home_link,last_updated
+3632,KLAX,large_airport,Los Angeles International Airport,33.942501,-118.407997,125,,United States,US,California,US-CA,CA,Los Angeles,KLAX,LAX,LAX,https://www.flylax.com/,2024-04-02T16:36:13+00:00
+3754,KORD,large_airport,Chicago O'Hare International Airport,41.9786,-87.9048,680,,United States,US,Illinois,US-IL,IL,Chicago,KORD,ORD,ORD,https://www.flychicago.com/ohare/home/pages/default.aspx,2024-03-09T23:28:49+00:00

@@ -1,0 +1,195 @@
+
+/* Filters box */
+.header{
+  margin-top: 0;
+  border-bottom: black 1px solid;
+}
+/* Date Filter Part */
+.date-filters {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.date-filters input {
+  align-self: center;
+  padding: 0.3rem;
+  font-size: 1rem;
+  border: 2px solid #909090;
+  border-radius: 0.5rem;
+  background-color: #fff;
+  color: #333;
+  transition: all 0.3s ease;
+  outline: none;
+}
+
+.date-filters input:focus {
+  border-color: #feffff;
+  box-shadow: 0 0 10px rgba(78, 115, 223, 0.3);
+}
+
+.date-filters input:hover {
+  border-color: #272525;
+}
+
+.date-filters label {
+  font-size: 1rem;
+  font-weight: 500;
+  margin-right: 0.5rem;
+}
+/* Direction filter */
+
+.select-direction-container {
+  display: flex;
+  flex-direction: column;
+  margin-top: 12px;
+  font-size: 1rem;
+}
+
+.select-direction-container label {
+  font-size: 16px;
+  color: #333;
+  margin-bottom: 4px;
+}
+
+.select-direction-container select {
+  padding: 8px;
+  border-radius: 4px;
+  border: 1px solid #454343;
+  font-size: 1rem;
+  background-color: #fff;
+  color: #333;
+  cursor: pointer;
+}
+
+/* Submit button */
+/* From Uiverse.io by BHARGAVPATEL1244 */ 
+.submit-filter {
+  outline: none;
+  cursor: pointer;
+  border: none;
+  padding: 0.9rem 2rem;
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  position: relative;
+  display: inline-block;
+  letter-spacing: 0.05rem;
+  font-weight: 700;
+  font-size: 17px;
+  border-radius: 500px;
+  overflow: hidden;
+  background: #d9e1d9;
+  color: ghostwhite;
+}
+ 
+ .submit-filter span {
+  position: relative;
+  z-index: 10;
+  transition: color 0.4s;
+ }
+ 
+ .submit-filter:hover span {
+  color: black;
+ }
+ 
+ .submit-filter::before,
+ .submit-filter::after {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+ }
+ 
+ .submit-filter::before {
+  content: "";
+  background: #000;
+  width: 120%;
+  left: -10%;
+  transform: skew(30deg);
+  transition: transform 0.4s cubic-bezier(0.3, 1, 0.8, 1);
+ }
+ 
+ .submit-filter:hover::before {
+  transform: translate3d(100%, 0, 0);
+ }
+
+ .filter-header-container{
+  display: flex;
+  justify-content: space-between;
+ }
+ .close-btn-filter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(242 218 218);
+  width: 2rem;
+  height: 2rem;
+  border-radius: 0.5rem;
+  transition: 0.3s;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.3), 4px 4px 10px rgba(0, 0, 0, 0.2), 6px 6px 12px rgba(0, 0, 0, 0.1);
+  border: none;
+  cursor: pointer;
+}
+.close-btn-filter:hover {
+  scale: 1.01;
+  background-color: rgb(240, 161, 161);
+}
+.close-btn-filter:active{
+  background-color: rgb(207, 110, 110);
+  scale: 0.98;
+}
+
+
+.filter-popup {
+  background-color: #F4DFCD;
+  border: 0px solid #0f0f0f;
+  box-shadow: 4px 4px 25px rgba(0, 0, 0, 0.5), 6px 6px 16px rgba(14, 14, 14, 0.2);
+  position: absolute;
+  right: 28rem;
+  top: 16rem;
+  z-index: 1000;
+  border-radius: 1.2rem;
+  padding: 1.2rem 2rem;
+  width: 30rem;
+  max-width: 90%;
+  transition: all 0.3s ease-in-out;
+  height: 20rem;
+  background: linear-gradient(to bottom right, rgb(242 234 214), rgb(243 241 236))
+
+}
+
+ /* Hover effect for added interactivity */
+ .filter-popup:hover {
+   box-shadow: 4px 4px 12px rgba(0, 0, 0, 0.15), 8px 8px 20px rgba(78, 115, 223, 0.3);
+   scale: 1.02;
+ }
+ 
+/* Mobile view adjustments */
+@media (max-width: 768px) {
+  .filter-popup {
+    top: 22rem;
+    width:70% ;
+    left: 2rem;
+}
+ 
+}
+
+/* Extra-small devices (phone portrait) */
+@media (max-width: 480px) {
+  .date-filters {
+    flex-direction: column;
+    margin-top: 1rem;
+  }
+
+  .date-filters input {
+    width: 40%; 
+    height: 1rem;
+  }
+}
+
+
+
