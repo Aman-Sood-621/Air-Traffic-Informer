@@ -62,7 +62,6 @@ After starting the server, open your browser and navigate to the link shown in t
 - http://localhost:3001
 
 ## Deployed Locations
-- AWS : http://15.222.249.189
 - Render : https://air-traffic-informer.onrender.com/
 
 ### How to Re-deploy
