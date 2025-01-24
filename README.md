@@ -4,7 +4,7 @@
 
 Full Stack MERN Application
 
-The Air Traffic Informer Application is a web-based interface that allows users to view real-time flight information on a map. Users can filter flights by date, direction (inbound or outbound), and airport, and can view details about each flight, such as flight number, carrier code, departure and arrival times, and aircraft information. The application provides an interactive map to view airports and flight routes and supports paginated flight listings and filtering options.
+The Air Traffic Informer Application is a web-based interface that allows users to view historical flight information on a map. Users can filter flights by date, direction (inbound or outbound), and airport, and can view details about each flight, such as flight number, carrier code, departure and arrival times, and aircraft information. The application provides an interactive map to view airports and flight routes and supports paginated flight listings and filtering options.
 
 ## Project Goal
 
